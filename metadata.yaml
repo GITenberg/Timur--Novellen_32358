@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34714
     wikipedia: http://de.wikipedia.org/wiki/Kasimir_Edschmid
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32358#Timur--Novellen
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2010-05-13'
 gutenberg_type: Text
